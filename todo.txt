@@ -1,0 +1,6 @@
+chargement de la db
+jointure (on conserve que les données ayant un lien avec les autres tables)
+on filtre tout ce qui contient trop de vide et tout ce qui contient des valeurs non attendu 
+transcodage (1 pour homme 2 pour femme devient H et F) redefinition
+on a un jeu de données propres
+on fait tirage aléatoire (de taille de l'echantillons que l'on souhaite) 2000 bonne base (99% de fiabilité)
